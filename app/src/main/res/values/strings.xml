@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mainactivity</string>
+    <string name="image_content_description">image_content_description</string>
+    <string name="create_account">create_account</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="connect">connect</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">password</string>
+    <string name="title_activity_Login_Display">Mainactivity</string>
+    <string name="email_or_password_empty">email ou password vide</string>
+</resources>
